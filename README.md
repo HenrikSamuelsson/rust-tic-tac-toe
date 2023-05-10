@@ -1,2 +1,3 @@
-# rust-tic-tac-toe
-Tic Tac Toe implemented as an exercise while learning Rust
+# Tic Tac Toe in Rust
+
+Tic Tac Toe implemented as practice to learn coding in Rust.
